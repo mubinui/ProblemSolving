@@ -1,0 +1,5 @@
+Input type: an array and an digit
+example:
+array = [5, 0, 0]
+digit = 1
+Answer = 4, 9, 9 another array
