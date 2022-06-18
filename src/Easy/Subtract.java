@@ -7,11 +7,11 @@ public class Subtract {
         Scanner sc = new Scanner(System.in);
         //Testing sub_normal method
 
-        int a [] = {5,0,0};
+        int a [] = {1,9,5};
         for(int i:a){
             System.out.print(i+" ");
         }
-        int digit = 1;
+        int digit = 5;
 //        a = sub_normal(a,digit);
 //        System.out.println();
 
@@ -58,13 +58,13 @@ public class Subtract {
     public static int [] sub_optimized(int a[],int dec){
         int temp = 0;
         for (int i = a.length-1; i>=0 ; i--) {
-            if(a[i]>(dec+temp)){
-                a[i]=a[i]-(dec+temp);
+            if((a[i]+(dec+temp))<10){
+                a[i]=a[i]+(dec+temp);
                 temp = 0;
                 dec = 0;
             }
             else{
-                a[i]= (a[i]+10) - (dec+temp);
+                a[i]= (a[i]+dec+temp)%10;
                 temp = 1;
                 dec = 0;
 
@@ -72,9 +72,9 @@ public class Subtract {
 
         }
 
-
-
         return a;
 
     }
+
+
 }
