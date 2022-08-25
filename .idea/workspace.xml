@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f10abb-f94b-4b55-9f85-92e0e319f791" name="Changes" comment="Optimized Substraction Problem">
-      <change afterPath="$PROJECT_DIR$/src/Hard/MedianOfSortedArrays.java" afterDir="false" />
+    <list default="true" id="60f10abb-f94b-4b55-9f85-92e0e319f791" name="Changes" comment="New Two">
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestCommonSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Midium/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Midium/StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rough/Rough01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Midium/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Midium/LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritence/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +46,22 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MedianOfSortedArrays">
-    <configuration name="BinarySearch704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch704" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringToInteger">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.Fibonacci" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Palindrome" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -66,21 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCMandGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.LCMandGCD" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Midium.LongestSubstring" />
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Midium.ReverseInteger" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.MedianOfSortedArrays" />
+    <configuration name="Rough01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rough.Rough01" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hard.*" />
+          <option name="PATTERN" value="Rough.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Midium.StringToInteger" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Midium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,10 +114,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MedianOfSortedArrays" />
-        <item itemvalue="Application.LongestSubstring" />
-        <item itemvalue="Application.BinarySearch704" />
-        <item itemvalue="Application.LCMandGCD" />
+        <item itemvalue="Application.StringToInteger" />
+        <item itemvalue="Application.Rough01" />
+        <item itemvalue="Application.ReverseInteger" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
@@ -136,7 +143,19 @@
       <workItem from="1655545638675" duration="29000" />
       <workItem from="1656755595782" duration="4172000" />
       <workItem from="1656771784108" duration="4502000" />
-      <workItem from="1656778633998" duration="1610000" />
+      <workItem from="1656778633998" duration="1766000" />
+      <workItem from="1657827800671" duration="1967000" />
+      <workItem from="1657967067039" duration="1273000" />
+      <workItem from="1658138151429" duration="3073000" />
+      <workItem from="1658141259942" duration="2489000" />
+      <workItem from="1658171462045" duration="4422000" />
+      <workItem from="1658242454272" duration="801000" />
+      <workItem from="1658243402293" duration="1416000" />
+      <workItem from="1658305139060" duration="4000" />
+      <workItem from="1658349325343" duration="24000" />
+      <workItem from="1658351272328" duration="10000" />
+      <workItem from="1661381256389" duration="3255000" />
+      <workItem from="1661439849068" duration="11977000" />
     </task>
     <task id="LOCAL-00001" summary="Optimized Substraction Problem">
       <created>1654256673670</created>
@@ -152,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655545660002</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New Two">
+      <created>1656780273900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656780273900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +197,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Optimized Substraction Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimized Substraction Problem" />
+    <MESSAGE value="New Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Two" />
   </component>
 </project>
