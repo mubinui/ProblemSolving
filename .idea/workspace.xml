@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f10abb-f94b-4b55-9f85-92e0e319f791" name="Changes" comment="New Two">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestCommonSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midium/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midium/StringToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindrome/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rough/Rough01.java" afterDir="false" />
+    <list default="true" id="60f10abb-f94b-4b55-9f85-92e0e319f791" name="Changes" comment="Problem Solving">
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Midium/LongestPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritence/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +149,8 @@
       <workItem from="1658349325343" duration="24000" />
       <workItem from="1658351272328" duration="10000" />
       <workItem from="1661381256389" duration="3255000" />
-      <workItem from="1661439849068" duration="11977000" />
+      <workItem from="1661439849068" duration="12998000" />
+      <workItem from="1661553549868" duration="5342000" />
     </task>
     <task id="LOCAL-00001" summary="Optimized Substraction Problem">
       <created>1654256673670</created>
@@ -178,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656780273900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Problem Solving">
+      <created>1661460366569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661460366569</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +200,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Optimized Substraction Problem" />
     <MESSAGE value="New Two" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Two" />
+    <MESSAGE value="Problem Solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem Solving" />
   </component>
 </project>
