@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f10abb-f94b-4b55-9f85-92e0e319f791" name="Changes" comment="Problem Solving">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midium/LongestPalindrome.java" afterDir="false" />
+    <list default="true" id="60f10abb-f94b-4b55-9f85-92e0e319f791" name="Changes" comment="Problem Solving LinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +148,8 @@
       <workItem from="1658351272328" duration="10000" />
       <workItem from="1661381256389" duration="3255000" />
       <workItem from="1661439849068" duration="12998000" />
-      <workItem from="1661553549868" duration="5342000" />
+      <workItem from="1661553549868" duration="6172000" />
+      <workItem from="1661706106412" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="Optimized Substraction Problem">
       <created>1654256673670</created>
@@ -180,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661460366569</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Problem Solving LinkedList">
+      <created>1661559841190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661559841190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +207,7 @@
     <MESSAGE value="Optimized Substraction Problem" />
     <MESSAGE value="New Two" />
     <MESSAGE value="Problem Solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem Solving" />
+    <MESSAGE value="Problem Solving LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem Solving LinkedList" />
   </component>
 </project>
