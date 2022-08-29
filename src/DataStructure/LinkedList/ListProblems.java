@@ -161,7 +161,6 @@ public class ListProblems {
         else if (list2!=null && list1==null) head = list2;
         else head = null;
 
-
         return head;
     }
 }
