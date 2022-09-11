@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60f10abb-f94b-4b55-9f85-92e0e319f791" name="Changes" comment="Problem Solving LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblemsA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/SumOfTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +40,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringToInteger">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.Fibonacci" />
+  <component name="RunManager" selected="Application.ListProblemsA">
+    <configuration name="ListProblemsA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.ListProblemsA" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="DataStructure.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListProblemsA" />
         <item itemvalue="Application.StringToInteger" />
         <item itemvalue="Application.Rough01" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +153,14 @@
       <workItem from="1661553549868" duration="6172000" />
       <workItem from="1661706106412" duration="3966000" />
       <workItem from="1661783701589" duration="8000" />
+      <workItem from="1661783769253" duration="855000" />
+      <workItem from="1662380798773" duration="4000" />
+      <workItem from="1662380821836" duration="2732000" />
+      <workItem from="1662385912325" duration="3842000" />
+      <workItem from="1662494660209" duration="4000" />
+      <workItem from="1662495987055" duration="1254000" />
+      <workItem from="1662664691623" duration="31000" />
+      <workItem from="1662936705321" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="Optimized Substraction Problem">
       <created>1654256673670</created>
@@ -193,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661726857227</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Problem Solving LinkedList">
+      <created>1661783817484</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661783817484</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,5 +234,21 @@
     <MESSAGE value="Problem Solving" />
     <MESSAGE value="Problem Solving LinkedList" />
     <option name="LAST_COMMIT_MESSAGE" value="Problem Solving LinkedList" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblemsA.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/LinkedList/ListProblemsA.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,6 +1,5 @@
 package DataStructure.LinkedList;
 
-
 public class ListProblems {
     public static void main(String[] args) {
         int [] array = {1,2,3,5,5};
