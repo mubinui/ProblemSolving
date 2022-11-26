@@ -14,7 +14,7 @@ public class SumOfTwoNumbers {
         }
         int output [] = new int[2];
         for (int i = 0; i <a.length ; i++) {
-            if(hashtable.contains(targetSum-(a[i]))){
+            if(hashtable.contains(targetSum-(a[i])) && hashtable.get(i)!=(targetSum-a[i])){
                 flag = true;
                 output[0] = targetSum-a[i];
                 output[1] = a[i];
