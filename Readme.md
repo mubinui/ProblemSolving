@@ -2,5 +2,5 @@
 
 <h3> Data Structure Related </h3>
 <li> <link href="src\DataStructure\Array">Array</li>
-<li><link href="src\LinkedList"></li>
+<li><link href="src\LinkedList">LinkedList</li>
 
